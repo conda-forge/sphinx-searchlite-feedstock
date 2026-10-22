@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.1"
+  version: "0.2.2"
 
 package:
   name: sphinx-searchlite
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/sphinx-searchlite/sphinx_searchlite-${{ version }}.tar.gz
-  sha256: 2dd465b85eabce0600b96931c7100711c3976345a8af83f518c43479f765af67
+  sha256: 29a6ef6278b9020899085ec70daf8f0d09e4d234c59631227915fbb173f64a30
 
 build:
   number: 0
